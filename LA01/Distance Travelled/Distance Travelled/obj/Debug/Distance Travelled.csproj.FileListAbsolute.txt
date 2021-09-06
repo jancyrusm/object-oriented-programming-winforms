@@ -1,0 +1,8 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\bin\Debug\Distance Travelled.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\bin\Debug\Distance Travelled.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\bin\Debug\Distance Travelled.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\obj\Debug\Distance Travelled.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\obj\Debug\Distance_Travelled.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\obj\Debug\Distance Travelled.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\obj\Debug\Distance Travelled.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Distance Travelled\Distance Travelled\obj\Debug\Distance Travelled.pdb

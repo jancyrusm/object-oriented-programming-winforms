@@ -1,0 +1,18 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.GenerateResource.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.pdb
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.exe.config
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.exe
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\bin\Debug\Addition.pdb
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.AssemblyReference.cache
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.MainForm.resources
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.GenerateResource.cache
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.exe
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.pdb

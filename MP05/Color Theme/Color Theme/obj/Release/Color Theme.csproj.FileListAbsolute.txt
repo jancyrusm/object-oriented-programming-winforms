@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\bin\Release\Color Theme.exe.config
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\bin\Release\Color Theme.exe
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Release\Color Theme.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Release\Color_Theme.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Release\Color Theme.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Release\Color Theme.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Release\Color Theme.exe

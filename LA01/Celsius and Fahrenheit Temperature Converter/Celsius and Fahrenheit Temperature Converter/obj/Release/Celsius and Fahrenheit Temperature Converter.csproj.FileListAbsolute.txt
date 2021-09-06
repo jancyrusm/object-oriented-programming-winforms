@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\bin\Release\Celsius and Fahrenheit Temperature Converter.exe.config
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\bin\Release\Celsius and Fahrenheit Temperature Converter.exe
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\obj\Release\Celsius and Fahrenheit Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\obj\Release\Celsius_and_Fahrenheit_Temperature_Converter.MainForm.resources
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\obj\Release\Celsius and Fahrenheit Temperature Converter.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\obj\Release\Celsius and Fahrenheit Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\LA01\Celsius and Fahrenheit Temperature Converter\Celsius and Fahrenheit Temperature Converter\obj\Release\Celsius and Fahrenheit Temperature Converter.exe

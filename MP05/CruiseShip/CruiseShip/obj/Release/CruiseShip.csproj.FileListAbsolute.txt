@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\bin\Release\CruiseShip.exe.config
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\bin\Release\CruiseShip.exe
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\obj\Release\CruiseShip.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\obj\Release\CruiseShip.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\obj\Release\CruiseShip.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\obj\Release\CruiseShip.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP05\CruiseShip\CruiseShip\obj\Release\CruiseShip.exe

@@ -1,0 +1,17 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\obj\Debug\Color Theme.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\obj\Debug\Color_Theme.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Color Theme\Color Theme\obj\Debug\Color Theme.pdb
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color_Theme.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+C:\Users\Cyrus\Desktop\git\MP05\Color Theme\Color Theme\obj\Debug\Color Theme.pdb

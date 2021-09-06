@@ -1,0 +1,9 @@
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\bin\Release\Restaurant Bill.exe.config
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\bin\Release\Restaurant Bill.exe
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\bin\Release\Restaurant Bill.pdb
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant_Bill.Form1.resources
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant_Bill.Properties.Resources.resources
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant Bill.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant Bill.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant Bill.exe
+C:\Users\Cyrus\Desktop\git\FE01\Restaurant Bill\Restaurant Bill\obj\Release\Restaurant Bill.pdb

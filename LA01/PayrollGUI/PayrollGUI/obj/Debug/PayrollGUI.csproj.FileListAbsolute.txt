@@ -1,0 +1,16 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.pdb
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.MainForm.resources
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.cache
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.CoreCompileInputs.cache
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.exe
+D:\Documents\BSCOE 1-6 [2nd Semester]\Object-Oriented Programming\repos\SharpDevelop Projects\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.pdb

@@ -1,0 +1,6 @@
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\bin\Release\Stadium Seating.exe.config
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\bin\Release\Stadium Seating.exe
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\obj\Release\Stadium_Seating.MainForm.resources
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\obj\Release\Stadium Seating.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\obj\Release\Stadium Seating.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\LA01\Stadium Seating\Stadium Seating\obj\Release\Stadium Seating.exe

@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\bin\Release\Exercise 4-1.exe.config
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\bin\Release\Exercise 4-1.exe
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\obj\Release\Exercise 4-1.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\obj\Release\Exercise_4_1.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\obj\Release\Exercise 4-1.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\obj\Release\Exercise 4-1.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP03\Exercise 4-1\Exercise 4-1\obj\Release\Exercise 4-1.exe

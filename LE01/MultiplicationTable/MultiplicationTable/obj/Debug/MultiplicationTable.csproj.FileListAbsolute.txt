@@ -1,0 +1,8 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\bin\Release\Compute.exe.config
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\bin\Release\Compute.exe
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Release\Compute.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Release\Compute.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Release\Compute.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Release\Compute.exe

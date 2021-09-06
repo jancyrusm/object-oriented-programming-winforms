@@ -1,0 +1,6 @@
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\bin\Release\Pizza.exe.config
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\bin\Release\Pizza.exe
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\obj\Release\Pizza.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\obj\Release\Pizza.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\obj\Release\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP05\Pizza\Pizza\obj\Release\Pizza.exe

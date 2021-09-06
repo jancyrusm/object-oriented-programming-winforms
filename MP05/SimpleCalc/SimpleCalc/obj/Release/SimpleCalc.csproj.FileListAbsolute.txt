@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\bin\Release\SimpleCalc.exe.config
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\bin\Release\SimpleCalc.exe
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP05\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.exe

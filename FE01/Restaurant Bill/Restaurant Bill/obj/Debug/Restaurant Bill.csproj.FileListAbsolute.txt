@@ -1,0 +1,10 @@
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.exe.config
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.exe
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.pdb
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.csproj.AssemblyReference.cache
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant_Bill.Form1.resources
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant_Bill.Properties.Resources.resources
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.csproj.GenerateResource.cache
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.exe
+C:\Users\Cyrus\source\repos\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.pdb

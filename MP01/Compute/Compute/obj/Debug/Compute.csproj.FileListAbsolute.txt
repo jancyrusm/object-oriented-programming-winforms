@@ -1,0 +1,17 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\bin\Debug\Compute.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\bin\Debug\Compute.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\bin\Debug\Compute.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\obj\Debug\Compute.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\obj\Debug\Compute.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\obj\Debug\Compute.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\obj\Debug\Compute.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Compute\Compute\obj\Debug\Compute.pdb
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\bin\Debug\Compute.exe.config
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\bin\Debug\Compute.exe
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\bin\Debug\Compute.pdb
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.exe
+C:\Users\Cyrus\Desktop\git\MP01\Compute\Compute\obj\Debug\Compute.pdb

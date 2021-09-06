@@ -1,0 +1,8 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\bin\Debug\CruiseShip.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\bin\Debug\CruiseShip.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\bin\Debug\CruiseShip.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\obj\Debug\CruiseShip.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\obj\Debug\CruiseShip.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\obj\Debug\CruiseShip.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\obj\Debug\CruiseShip.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\CruiseShip\CruiseShip\obj\Debug\CruiseShip.pdb

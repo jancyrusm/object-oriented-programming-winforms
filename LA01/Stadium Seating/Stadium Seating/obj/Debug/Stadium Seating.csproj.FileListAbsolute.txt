@@ -1,0 +1,8 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb

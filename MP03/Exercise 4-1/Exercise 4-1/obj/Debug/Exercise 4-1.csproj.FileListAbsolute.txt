@@ -1,0 +1,8 @@
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\bin\Debug\Exercise 4-1.exe.config
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\bin\Debug\Exercise 4-1.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\bin\Debug\Exercise 4-1.pdb
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\obj\Debug\Exercise 4-1.csprojResolveAssemblyReference.cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\obj\Debug\Exercise_4_1.MainForm.resources
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\obj\Debug\Exercise 4-1.csproj.GenerateResource.Cache
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\obj\Debug\Exercise 4-1.exe
+C:\Users\Cyrus\Documents\SharpDevelop Projects\Exercise 4-1\Exercise 4-1\obj\Debug\Exercise 4-1.pdb

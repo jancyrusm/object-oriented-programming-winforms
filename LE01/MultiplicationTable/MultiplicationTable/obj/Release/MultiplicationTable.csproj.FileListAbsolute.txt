@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\bin\Release\MultiplicationTable.exe.config
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\bin\Release\MultiplicationTable.exe
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\obj\Release\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\obj\Release\MultiplicationTable.MainForm.resources
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\obj\Release\MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\obj\Release\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\LE01\MultiplicationTable\MultiplicationTable\obj\Release\MultiplicationTable.exe

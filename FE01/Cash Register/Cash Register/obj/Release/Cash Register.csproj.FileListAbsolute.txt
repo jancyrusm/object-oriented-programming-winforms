@@ -1,0 +1,10 @@
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\bin\Release\Cash Register.exe.config
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\bin\Release\Cash Register.exe
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\bin\Release\Cash Register.pdb
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash Register.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash_Register.Form1.resources
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash_Register.Properties.Resources.resources
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash Register.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash Register.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash Register.exe
+C:\Users\Cyrus\Desktop\git\FE01\Cash Register\Cash Register\obj\Release\Cash Register.pdb

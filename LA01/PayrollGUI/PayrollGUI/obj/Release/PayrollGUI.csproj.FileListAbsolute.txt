@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\bin\Release\PayrollGUI.exe.config
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\bin\Release\PayrollGUI.exe
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\obj\Release\PayrollGUI.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\obj\Release\PayrollGUI.MainForm.resources
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\obj\Release\PayrollGUI.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\obj\Release\PayrollGUI.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\LA01\PayrollGUI\PayrollGUI\obj\Release\PayrollGUI.exe

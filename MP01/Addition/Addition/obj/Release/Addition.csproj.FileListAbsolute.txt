@@ -1,0 +1,7 @@
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\bin\Release\Addition.exe.config
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\bin\Release\Addition.exe
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\obj\Release\Addition.csproj.AssemblyReference.cache
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\obj\Release\Addition.MainForm.resources
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\obj\Release\Addition.csproj.GenerateResource.cache
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\obj\Release\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\Desktop\git\MP01\Addition\Addition\obj\Release\Addition.exe
